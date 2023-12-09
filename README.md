@@ -13,11 +13,11 @@ This project is a basic implementation of a kids store written purely in Java. I
 
 To get a local copy up and running, follow these simple steps.
 
-## **Prerequisites** 🛠️
+### **Prerequisites** 🛠️
 
 Make sure you have Java installed on your machine. If not, you can download it from [here](https://www.java.com/en/download/).
 
-## **Installation** 💾
+### **Installation** 💾
 
 1. Clone the repo:
 
@@ -33,11 +33,11 @@ Make sure you have Java installed on your machine. If not, you can download it f
 
 4. Run the application:
 
-```java Mai```n
+```java Main```
 
 Now, you should be able to explore the kids store right in your terminal! 🚀 
 
-**Contributing** 🤝
+### **Contributing** 🤝
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
