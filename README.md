@@ -1,58 +1,67 @@
-🎈 **Kids Store in Java** 🎈
+# 🎈 **Kids Store in Java** 🎈
 
 This project is a basic implementation of a kids store written purely in Java. It's designed to be as straightforward and user-friendly as possible. Originally crafted as a school project, I've decided to share it with the world to help others learn Java in the simplest form. 📚
 
-**Features** 🎪
+## **Features** 🎪
 
 * **Simple Data** Storage: Data is temporarily stored, and there is no actual database.
 * **MVC Architecture**: Organized in a Model-View-Controller (MVC) structure.
 * **Terminal-based UI**: Run the project in your terminal and navigate through the store.
 * **Pure Java**: No complex frameworks or libraries, just plain old Java to keep things simple.
 
-**Getting Started** 🚀
+## **Getting Started** 🚀
+
 To get a local copy up and running, follow these simple steps.
 
-**Prerequisites** 🛠️
+## **Prerequisites** 🛠️
+
 Make sure you have Java installed on your machine. If not, you can download it from [here](https://www.java.com/en/download/).
 
-**Installation** 💾
+## **Installation** 💾
+
 1. Clone the repo:
-**sh**
+
 ```git clone https://github.com/Bellzylu/Java-Kids-Store.git```
 
 2. Navigate to the project directory:
-**sh**
+
 ```cd KidsStore```
 
 3. Compile the Java files (make sure you're in the src directory):
-**sh**
+
 ```javac *.java```
 
 4. Run the application:
-**sh**
+
 ```java Mai```n
 
 Now, you should be able to explore the kids store right in your terminal! 🚀 
 
 **Contributing** 🤝
+
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
 
 2. Create your Feature Branch 
+
 ```git checkout -b feature/AmazingFeatur```e
 3. Commit your Changes 
+
 ```git commit -m```
 
 4. Push to the Branch 
+
 ```git push origin feature/AmazingFeature```
 
 5. Open a Pull Request
 
 License 📜
+
 Distributed under the MIT License. See **LICENSE** for more information.
 
 Contact me 📫
+
 bellsy@icloud.com
 
 
