@@ -37,10 +37,10 @@ Now, you should be able to explore the kids store right in your terminal! 🚀
 **Contributing** 🤝
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-1.Fork the Project
+1. Fork the Project
 
 2. Create your Feature Branch 
-```git checkout -b feature/AmazingFeature**
+```git checkout -b feature/AmazingFeatur```e
 3. Commit your Changes 
 ```git commit -m```
 
