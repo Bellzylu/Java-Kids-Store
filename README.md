@@ -25,7 +25,7 @@ Make sure you have Java installed on your machine. If not, you can download it f
 
 2. Navigate to the project directory:
 
-```cd KidsStore```
+```cd Java-Kids-Store```
 
 3. Compile the Java files (make sure you're in the src directory):
 
@@ -35,7 +35,7 @@ Make sure you have Java installed on your machine. If not, you can download it f
 
 ```java Main```
 
-Now, you should be able to explore the kids store right in your terminal! 🚀 
+Now, you should be able to explore the kids store right in your terminal! 🔥
 
 ### **Contributing** 🤝
 
