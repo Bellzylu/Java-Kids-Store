@@ -17,6 +17,7 @@ To get a local copy up and running, follow these simple steps.
 
 Make sure you have Java installed on your machine. If not, you can download it from [here](https://www.java.com/en/download/).
 
+
 ### **Installation** 💾
 
 1. Clone the repo:
@@ -64,6 +65,8 @@ git push origin feature/AmazingFeature
 ```
 
 5. Open a Pull Request
+
+   
 
 License 📜
 
