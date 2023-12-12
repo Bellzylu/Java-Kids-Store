@@ -21,19 +21,27 @@ Make sure you have Java installed on your machine. If not, you can download it f
 
 1. Clone the repo:
 
-```git clone https://github.com/Bellzylu/Java-Kids-Store.git```
+```bash 
+git clone https://github.com/Bellzylu/Java-Kids-Store.git
+```
 
 2. Navigate to the project directory:
 
-```cd Java-Kids-Store```
+```bash
+cd Java-Kids-Store
+```
 
 3. Compile the Java files (make sure you're in the src directory):
 
-```javac *.java```
+```bash 
+javac *.java
+```
 
 4. Run the application:
 
-```java Main```
+```bash
+java Main
+```
 
 Now, you should be able to explore the kids store right in your terminal! 🔥
 
@@ -45,14 +53,21 @@ Contributions are what make the open-source community such an amazing place to l
 
 2. Create your Feature Branch 
 
-```git checkout -b feature/AmazingFeatur```e
+```bash
+git checkout -b feature/AmazingFeature
+```
+
 3. Commit your Changes 
 
-```git commit -m```
+```bash
+git commit -m
+```
 
 4. Push to the Branch 
 
-```git push origin feature/AmazingFeature```
+```bash
+git push origin feature/AmazingFeature
+```
 
 5. Open a Pull Request
 
