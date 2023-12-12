@@ -31,19 +31,13 @@ git clone https://github.com/Bellzylu/Java-Kids-Store.git
 cd Java-Kids-Store
 ```
 
-3. Compile the Java files (make sure you're in the src directory):
 
-```bash 
-javac *.java
-```
+3. Run the application in your local IDE. (In VS-Code just press the play/run button to run the project if you want to skip the compiling step)
 
-4. Run the application:
+4. Use the number options the menu will present you with, to navigate through the store.
 
-```bash
-java Main
-```
-
-Now, you should be able to explore the kids store right in your terminal! 🔥
+   Thats it, you are all set! ;) 
+   
 
 ### **Contributing** 🤝
 
