@@ -1,6 +1,11 @@
 # 🎈 **Kids Store in Java** 🎈
 
-This project is a basic implementation of a kids store written purely in Java. It's designed to be as straightforward and user-friendly as possible. Originally crafted as a school project, I've decided to share it with the world to help others learn Java in the simplest form. 📚
+This project is a basic implementation of a kids store written purely in Java. It's designed to be as straightforward and user-friendly as possible.  I've decided to share it with the world to help others learn Java in the simplest form. 📚 Heres a little showcase of the program run in my terminal (be warned, this is old-school):
+
+
+https://github.com/Bellzylu/Java-Kids-Store/assets/101601962/7e0d242c-59fa-4354-bf93-a62a3a393c56
+
+
 
 ## **Features** 🎪
 
@@ -11,7 +16,7 @@ This project is a basic implementation of a kids store written purely in Java. I
 
 ## **Getting Started** 🚀
 
-To get a local copy up and running, follow these simple steps.
+To get a local copy up and running, follow these steps:
 
 ### **Prerequisites** 🛠️
 
